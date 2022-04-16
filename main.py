@@ -1,5 +1,5 @@
 # (c) Asm Safone
-# A Part of MegaDL-Bot <https://github.com/AsmSafone/MegaDL-Bot>
+# A Part of MegaDL-Bot <https://github.com/frankenstein-666/MegaDL-Bot>
 
 import os
 import asyncio
@@ -18,7 +18,7 @@ if __name__ == "__main__" :
         plugins=plugins
     )
     app.start()
-    print('\n\n>>> MegaDL-Bot Started. Join @AsmSafone!')
+    print('\n\n>>> MegaDL-Bot Started. Join @project_3301!')
     idle()
     app.stop()
-    print('\n\n>>> MegaDL-Bot Stopped. Join @AsmSafone!')
+    print('\n\n>>> MegaDL-Bot Stopped. Join @projact_3301!')
