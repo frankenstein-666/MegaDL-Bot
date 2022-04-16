@@ -1,5 +1,5 @@
 # (c) Asm Safone
-# A Part of MegaDL-Bot <https://github.com/AsmSafone/MegaDL-Bot>
+# A Part of MegaDL-Bot <https://github.com/frankenstein-666/MegaDL-Bot>
 
 from config import Config
 from pyrogram import Client, filters
